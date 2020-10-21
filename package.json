@@ -1,0 +1,21 @@
+{
+  "name": "example-kubernetes-app",
+  "version": "1.0.0",
+  "description": "Example Supercell kubernetes services application",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "prom-client": "^11.1.3",
+    "express-ws": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.supercell.com:services/example-kubernetes-app.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
